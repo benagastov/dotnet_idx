@@ -2957,11 +2957,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/weqeqwe/myapp.csproj",
+      "projectUniqueName": "/home/user/dotnet-test/dotnet_idx/myapp.csproj",
       "projectName": "myapp",
-      "projectPath": "/home/user/weqeqwe/myapp.csproj",
+      "projectPath": "/home/user/dotnet-test/dotnet_idx/myapp.csproj",
       "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/weqeqwe/obj/",
+      "outputPath": "/home/user/dotnet-test/dotnet_idx/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/user/.nuget/NuGet/NuGet.Config"
